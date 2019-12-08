@@ -47,13 +47,13 @@ allow to extract more sophisticated features that could be meaningful.
  especially in combination with bags-of-words. Moreover, its functioning is very intuitive.  
 
 
-## How to run the coee
+## How to run the code
 
 #### Set-up
 
 To run the code, it is suggested to create a virtual environment with Python 3.7. 
 All required packages are specified in the _requirements.txt_ file. 
-Once the virtual environment is created, the installation of the package can be done by running the 
+Once the virtual environment is created, the installation of the packages can be done by running the 
 following command.
 ```
 pip install -r requirements.txt
